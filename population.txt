@@ -1,0 +1,12 @@
+country           population
+
+China             1364
+India             1296 
+UnitedStates      318 
+Indonesia         251 
+Brazil           203
+Pakistan         194 
+Nigeria          177 
+Bangladesh       158
+Russia           144
+Japan            127
