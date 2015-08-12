@@ -1,4 +1,4 @@
- # Sine and cosine function with r
+ # Sine and cosine functions with r
 
 x <- seq(-1,1, 0.05) # argument of the function
 y <- sin(x*pi) 
